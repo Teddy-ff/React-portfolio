@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website built with **React.js** and styled using **Tailwind CSS**. This website showcases my skills, projects, resume, and contact information in a clean and interactive layout with animations and responsiveness.
 
 ## 🚀 Live Demo
-🔗 [View My Portfolio](https://your-deployed-url.vercel.app/) <!-- Replace with your actual link -->
+🔗 [View My Portfolio]([https://idrees-porfolio.vercel.app/])
 
 ---
 
